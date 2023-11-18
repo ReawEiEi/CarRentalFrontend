@@ -36,8 +36,8 @@ next-env.d.ts
 
 # cypress
 /cypress
-src/components/LocationDateReserve.cy.tsx
-src/components/*.cy.tsx
+/src/components/LocationDateReserve.cy.tsx
+/src/components/*.cy.tsx
 cypress.config.ts
 
 # jest
